@@ -8,7 +8,7 @@
 </h1>
 
 1.  **Demo Site.**
-(https://wordpress-gatsby.netlify.com/blog/)
+(https://friendly-curran-ed4653.netlify.com/)
 
 2.  **Detail Blog.**
 (https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)

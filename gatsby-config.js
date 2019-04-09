@@ -3,7 +3,7 @@ require('dotenv').config({
 });
 const path = require('path');
 
-const siteUrl = 'http://localhost:8000';
+const siteUrl = 'https://friendly-curran-ed4653.netlify.com';
 module.exports = {
   siteMetadata: {
     siteUrl,
